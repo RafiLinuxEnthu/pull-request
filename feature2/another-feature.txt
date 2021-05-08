@@ -1,0 +1,5 @@
+This file was added in feature2 branch
+
+Another line
+
+Another line again
